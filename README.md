@@ -1,0 +1,1 @@
+Synergy C++ Hello World!
